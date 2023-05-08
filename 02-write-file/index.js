@@ -15,4 +15,3 @@ process.on('SIGINT', () => {
   stdout.write('До встречи!\n');
   process.exit();
 });
-
